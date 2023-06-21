@@ -4,6 +4,8 @@
 
 ![Image 2](images/image2.png)
 
+![Image 3](images/image3.png)
+
 Features:
 
 - Create a car and its price
