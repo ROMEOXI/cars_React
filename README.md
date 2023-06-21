@@ -14,7 +14,7 @@ Features:
 
 ### Install packages
 
-``bash
+```bash
 npm i
 ```
 
